@@ -1,9 +1,11 @@
 import setuptools
 
+# Tutorial used: https://dzone.com/articles/executable-package-pip-install
+
 setuptools.setup(
      name='tiavda',
      version='0.2',
-     scripts=['tiavda_setup.sh'],
+     scripts=['scripts/tiavda_setup.sh'],
      author="Advait Pavuluri",
      author_email="advait.pavuluri@gmail.com",
      description="Utility package for graphing.",
