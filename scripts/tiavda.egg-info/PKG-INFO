@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: tiavda
+Version: 0.1
+Summary: Utility package for graphing
+Home-page: https://github.com/AdvaitPavuluri/tiavda
+Author: Advait Pavuluri
+Author-email: advait.pavuluri@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+What's a long description?
+
