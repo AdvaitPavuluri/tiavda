@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-import color.color_palette as cp
+import tiavda.color.color_palette as cp
 
 
 def _preflight_check(adata, coordinate_space):

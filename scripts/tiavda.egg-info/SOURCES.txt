@@ -1,6 +1,0 @@
-setup.py
-tiavda_setup.sh
-tiavda.egg-info/PKG-INFO
-tiavda.egg-info/SOURCES.txt
-tiavda.egg-info/dependency_links.txt
-tiavda.egg-info/top_level.txt
